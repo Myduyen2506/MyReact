@@ -10,5 +10,6 @@
 7. [Câu 16] (https://codepen.io/Myduyen2506/pen/PoaKgJX)
 8. [Câu 17] (https://codepen.io/Myduyen2506/pen/vYrJMWr)
 ## Thực hành
-1. [ Bài thực hành dùng pros và state] (https://codesandbox.io/s/thuc-hanh-dung-prop-va-state-o3bhno?file=/src/styles.css:0-117&fbclid=IwAR0idDLMxDu8WJHvjshc0_vpF9jIMcty9aEDGs5evhTYGvL4-0UtLkgoJlE)
+1. [Bài thực hành làm quen React và tạo component] ( https://codesandbox.io/s/lam-quen-tao-camponent-xxmtkw)
+2. [ Bài thực hành dùng pros và state] (https://codesandbox.io/s/thuc-hanh-dung-prop-va-state-o3bhno?file=/src/styles.css:0-117&fbclid=IwAR0idDLMxDu8WJHvjshc0_vpF9jIMcty9aEDGs5evhTYGvL4-0UtLkgoJlE)
 
