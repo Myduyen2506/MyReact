@@ -12,4 +12,4 @@
 ## Thực hành
 1. [Bài thực hành làm quen React và tạo component] ( https://codesandbox.io/s/lam-quen-tao-camponent-xxmtkw)
 2. [ Bài thực hành dùng pros và state] (https://codesandbox.io/s/thuc-hanh-dung-prop-va-state-o3bhno?file=/src/styles.css:0-117&fbclid=IwAR0idDLMxDu8WJHvjshc0_vpF9jIMcty9aEDGs5evhTYGvL4-0UtLkgoJlE)
-3. [Bài thực hành 2,3, dự án cuối] (https://codesandbox.io/s/bth-2-3-t21eh5?file=/package.json)
+3. [Bài thực hành 2,3, dự án cuối] (https://codesandbox.io/s/baikt2-3-va-du-an-cuoi-pbg28u)
