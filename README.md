@@ -20,6 +20,6 @@
 17. [Câu 17] (https://codepen.io/Myduyen2506/pen/vYrJMWr)
 ## Thực hành
 1. [Bài thực hành làm quen React và tạo component] ( https://codesandbox.io/s/lam-quen-tao-camponent-xxmtkw)
-2. [Bài thực hành 1] (https://codesandbox.io/s/bai-thuc-hanh-1-jewfx6)
+2. [Bài thực hành 1] (https://codesandbox.io/s/bai-thuc-hanh-1-fybjv2)
 2. [ Bài thực hành dùng pros và state] (https://codesandbox.io/s/thuc-hanh-prop-va-state-w6x8x9)
 3. [Bài thực hành 2,3, dự án cuối] (https://codesandbox.io/s/baikt2-3-va-du-an-cuoi-pbg28u)
