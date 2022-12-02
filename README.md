@@ -12,7 +12,7 @@
 10. [Câu 10] (https://codepen.io/Myduyen2506/pen/VwdMxMr)
 11. [Câu 11] (https://codepen.io/Myduyen2506/pen/VwdpEwv)
 12. [câu 12] (https://codepen.io/Myduyen2506/pen/gOKmBbg)
-13. [câu 13] (https:ẻcotdepen.io/Myduyen2506/pen/zYaZmzg)rt
+13. [câu 13] (https://codepen.io/Myduyen2506/pen/zYaZmzg)
 14. [Câu 14] (https://codepen.io/Myduyen2506/pen/eYKvPEo)
 15. [Câu 15] (https://codepen.io/Myduyen2506/pen/ExRWdbx)
 15. [Câu 15 cách 2] (https://codepen.io/Myduyen2506/pen/WNygXLL)
@@ -20,8 +20,8 @@
 17. [Câu 17] (https://codepen.io/Myduyen2506/pen/vYrJMWr)
 18.  [Câu 18] (https://codepen.io/Myduyen2506/pen/poKxaMp)
 20.  [Câu 19] (https://codepen.io/Myduyen2506/pen/zYamRXm
-21.  [câu 20](https://codepen.io/Myduyen2506/pen/poKxaXp)
-22.  [ câu 21](https://codepen.io/Myduyen2506/pen/mdKzXZe)
+21.  [câu 20] (https://codepen.io/Myduyen2506/pen/poKxaXp)
+22.  [ câu 21] (https://codepen.io/Myduyen2506/pen/mdKzXZe)
 ## Thực hành
 1. [Bài thực hành làm quen React và tạo component] ( https://codesandbox.io/s/lam-quen-tao-camponent-xxmtkw)
 2. [Bài thực hành 1] (https://codesandbox.io/s/bai-thuc-hanh-1-fybjv2)
