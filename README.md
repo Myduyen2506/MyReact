@@ -20,7 +20,7 @@
 17. [Câu 17] (https://codepen.io/Myduyen2506/pen/vYrJMWr)
 18.  [Câu 18]
 20.  [Câu 19] (https://codepen.io/Myduyen2506/pen/zYamRXm)
-21.  [câu 20]
+21.  [câu 20](https://codepen.io/Myduyen2506/pen/poKxaXp)
 22.  [ câu 21](https://codepen.io/Myduyen2506/pen/mdKzXZe)
 ## Thực hành
 1. [Bài thực hành làm quen React và tạo component] ( https://codesandbox.io/s/lam-quen-tao-camponent-xxmtkw)
