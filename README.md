@@ -19,7 +19,7 @@
 16. [Câu 16] (https://codepen.io/Myduyen2506/pen/PoaKgJX)
 17. [Câu 17] (https://codepen.io/Myduyen2506/pen/vYrJMWr)
 18.  [Câu 18]
-20.  [Câu 19] (https://codepen.io/Myduyen2506/pen/zYamRXm)
+20.  [Câu 19] (https://codepen.io/Myduyen2506/pen/zYamRXm
 21.  [câu 20](https://codepen.io/Myduyen2506/pen/poKxaXp)
 22.  [ câu 21](https://codepen.io/Myduyen2506/pen/mdKzXZe)
 ## Thực hành
