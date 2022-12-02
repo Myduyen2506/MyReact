@@ -18,7 +18,7 @@
 15. [Câu 15 cách 2] (https://codepen.io/Myduyen2506/pen/WNygXLL)
 16. [Câu 16] (https://codepen.io/Myduyen2506/pen/PoaKgJX)
 17. [Câu 17] (https://codepen.io/Myduyen2506/pen/vYrJMWr)
-18.  [Câu 18]
+18.  [Câu 18] (https://codepen.io/Myduyen2506/pen/poKxaMp)
 20.  [Câu 19] (https://codepen.io/Myduyen2506/pen/zYamRXm
 21.  [câu 20](https://codepen.io/Myduyen2506/pen/poKxaXp)
 22.  [ câu 21](https://codepen.io/Myduyen2506/pen/mdKzXZe)
